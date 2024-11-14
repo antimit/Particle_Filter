@@ -3,9 +3,14 @@ A simple C++ implementation of a Particle Filter using SFML for real-time visual
 
 📦 Requirements
 C++ Compiler (g++)
-SFML Library (sudo apt install libsfml-dev)
+SFML Library 
+
+(sudo apt install libsfml-dev)
+
 ⚙️ Build
+
 make
+
 This compiles the project and creates myProgram executable.
 
 🚀 Run
