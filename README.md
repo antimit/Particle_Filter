@@ -1,5 +1,7 @@
 # Particle Filter
-A simple C++ implementation of a Particle Filter using SFML for real-time visualization. The program tracks a plane's position using particles and updates them based on noisy measurements.
+A simple C++ implementation of a Particle Filter using SFML for real-time visualization.
+
+The program tracks a plane's position using particles and updates them based on noisy measurements.
 
 📦 Requirements
 C++ Compiler (g++)
@@ -21,6 +23,7 @@ This compiles the project and creates myProgram executable.
 🗑️ Clean Up
 
 make clean   # Remove object files
+
 make fclean  # Full cleanup, including executable
 
 
